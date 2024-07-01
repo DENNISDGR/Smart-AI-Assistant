@@ -41,4 +41,4 @@ The assistant will start listening for your commands. Speak clearly into your mi
 
 ## Stay updated
 
-This is only the beggining. For more information, detailed code explanations, updates, and other interesting projects, visit [my site](https://dennisdgr.ddns.net).
+This is only the beginning. For more information, detailed code explanations, updates, and other interesting projects, visit [my site](https://dennisdgr.ddns.net).
