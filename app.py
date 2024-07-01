@@ -3,7 +3,7 @@ from openai import OpenAI
 from utils import record_audio, play_audio
 import os
 
-os.environ['OPENAI_API_KEY'] = 'api_key'
+os.environ['OPENAI_API_KEY'] = 'your_api_key'
 
 client = OpenAI()
 
