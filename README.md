@@ -23,6 +23,11 @@ git clone https://github.com/DENNISDGR/Smart-AI-Assistant.git
 cd Smart-AI-Assistant
 pip install -r requirements.txt
 ```
+Get an API key from [OpenAI](https://platform.openai.com/api-keys) and place it here:
+
+```py
+os.environ['OPENAI_API_KEY'] = 'your_api_key'
+```
 
 ### Usage
 
@@ -36,4 +41,4 @@ The assistant will start listening for your commands. Speak clearly into your mi
 
 ## Stay updated
 
-For more information, detailed code explanations, updates, and other interesting projects, visit [my site](https://dennisdgr.ddns.net).
+This is only the beggining. For more information, detailed code explanations, updates, and other interesting projects, visit [my site](https://dennisdgr.ddns.net).
